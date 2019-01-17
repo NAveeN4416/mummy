@@ -1,0 +1,169 @@
+[21-Jun-2018 12:53:28 UTC] PHP Fatal error:  Cannot redeclare Admin_m::services() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 165
+[22-Jun-2018 05:07:12 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _FILES in /home/volive/public_html/engineering/application/controllers/Sp_services.php on line 543
+[22-Jun-2018 12:40:08 UTC] PHP Fatal error:  Cannot redeclare User_services::user_requests_post() in /home/volive/public_html/engineering/application/controllers/User_services.php on line 371
+[29-Jun-2018 05:11:58 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:12:09 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:12:49 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:13:14 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:13:33 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:13:52 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:13:57 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:14:03 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:14:07 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:14:09 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:14:24 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:14:29 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:14:45 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:14:46 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:14:58 UTC] PHP Fatal error:  Cannot redeclare Admin::profile() in /home/volive/public_html/engineering/application/controllers/Admin.php on line 494
+[29-Jun-2018 05:15:09 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:15:24 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:15:25 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:15:48 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:15:49 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:15:50 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:15:50 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 05:15:51 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_userdetails() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 199
+[29-Jun-2018 10:55:49 UTC] PHP Fatal error:  Cannot redeclare Admin::privacy() in /home/volive/public_html/engineering/application/controllers/Admin.php on line 618
+[29-Jun-2018 10:55:52 UTC] PHP Fatal error:  Cannot redeclare Admin::privacy() in /home/volive/public_html/engineering/application/controllers/Admin.php on line 618
+[05-Jul-2018 05:01:47 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_totalorders() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 413
+[05-Jul-2018 05:02:03 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_totalorders() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 413
+[05-Jul-2018 05:02:26 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_totalorders() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 413
+[05-Jul-2018 05:03:11 UTC] PHP Fatal error:  Cannot redeclare Admin_m::get_totalorders() in /home/volive/public_html/engineering/application/models/Admin_m.php on line 413
+[05-Jul-2018 09:54:11 UTC] PHP Fatal error:  Cannot redeclare Admin::forgotpassword() in /home/volive/public_html/engineering/application/controllers/Admin.php on line 206
+[09-Jul-2018 09:55:55 UTC] PHP Warning:  Unterminated comment starting line 532 in /home/volive/public_html/engineering/application/controllers/Sp_services.php on line 532
+[16-Jul-2018 09:49:04 UTC] PHP Warning:  Unterminated comment starting line 531 in /home/volive/public_html/engineering/application/controllers/Sp_services.php on line 531
+[16-Jul-2018 09:49:49 UTC] PHP Warning:  Unterminated comment starting line 531 in /home/volive/public_html/engineering/application/controllers/Sp_services.php on line 531
+[19-Jul-2018 09:33:41 UTC] PHP Warning:  Unterminated comment starting line 1179 in /home/volive/public_html/engineering/application/controllers/Sp_services.php on line 1179
+[27-Jul-2018 10:38:26 UTC] PHP Warning:  Unterminated comment starting line 1177 in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1177
+[27-Jul-2018 10:38:26 UTC] PHP Warning:  Unterminated comment starting line 1177 in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1177
+[30-Jul-2018 05:32:59 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:33:00 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:33:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:33:30 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:33:42 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:33:43 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:33:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:34:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:34:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:34:05 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:34:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:34:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:34:42 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:34:42 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1256
+[30-Jul-2018 05:35:06 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:08 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:11 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:11 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:15 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:15 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1255
+[30-Jul-2018 05:35:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1252
+[30-Jul-2018 05:35:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1252
+[30-Jul-2018 05:35:35 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1252
+[30-Jul-2018 05:35:35 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1252
+[30-Jul-2018 05:35:36 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1252
+[30-Jul-2018 05:35:36 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1252
+[30-Jul-2018 05:35:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1252
+[30-Jul-2018 05:35:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1252
+[30-Jul-2018 05:37:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1252
+[30-Jul-2018 05:37:07 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1252
+[30-Jul-2018 05:37:09 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1252
+[30-Jul-2018 05:37:17 UTC] PHP Warning:  Unterminated comment starting line 1213 in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1213
+[30-Jul-2018 05:37:17 UTC] PHP Warning:  Unterminated comment starting line 1213 in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1213
+[30-Jul-2018 05:39:14 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1251
+[30-Jul-2018 05:39:14 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1251
+[30-Jul-2018 05:39:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1251
+[30-Jul-2018 05:41:18 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1251
+[30-Jul-2018 05:41:24 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1251
+[30-Jul-2018 05:43:29 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1251
+[30-Jul-2018 05:43:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1251
+[30-Jul-2018 05:44:59 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1251
+[30-Jul-2018 05:45:02 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1251
+[30-Jul-2018 05:45:30 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1251
+[30-Jul-2018 05:46:51 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1251
+[30-Jul-2018 05:46:53 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1251
+[30-Jul-2018 05:47:47 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1250
+[30-Jul-2018 05:49:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1250
+[30-Jul-2018 05:49:14 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1250
+[30-Jul-2018 05:49:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1250
+[30-Jul-2018 05:50:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/volive/public_html/engineering/application/controllers/User_services.php on line 1250
+[23-Aug-2018 10:57:38 UTC] PHP Warning:  Unterminated comment starting line 202 in /home/volive/public_html/aous/application/models/Spservices_m.php on line 202
+[23-Aug-2018 10:58:29 UTC] PHP Warning:  Unterminated comment starting line 202 in /home/volive/public_html/aous/application/models/Spservices_m.php on line 202
+[23-Aug-2018 10:59:11 UTC] PHP Warning:  Unterminated comment starting line 202 in /home/volive/public_html/aous/application/models/Spservices_m.php on line 202
+[24-Aug-2018 11:31:30 UTC] PHP Warning:  Unterminated comment starting line 505 in /home/volive/public_html/aous/application/controllers/User_services.php on line 505
+[24-Aug-2018 12:50:16 UTC] PHP Warning:  Unterminated comment starting line 505 in /home/volive/public_html/aous/application/controllers/User_services.php on line 505
+[28-Aug-2018 10:22:20 UTC] PHP Warning:  Unterminated comment starting line 509 in /home/volive/public_html/aous/application/controllers/User_services.php on line 509
+[28-Aug-2018 10:27:44 UTC] PHP Warning:  Unterminated comment starting line 511 in /home/volive/public_html/aous/application/controllers/User_services.php on line 511
+[02-Nov-2018 07:03:41 UTC] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH) in /home/volive/public_html/aous/index.php on line 66
+[02-Nov-2018 07:03:43 UTC] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH) in /home/volive/public_html/aous/index.php on line 66
+[02-Nov-2018 07:03:44 UTC] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH) in /home/volive/public_html/aous/index.php on line 66
+[02-Nov-2018 07:03:45 UTC] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH) in /home/volive/public_html/aous/index.php on line 66
+[02-Nov-2018 07:03:45 UTC] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH) in /home/volive/public_html/aous/index.php on line 66
+[02-Nov-2018 07:03:46 UTC] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH) in /home/volive/public_html/aous/index.php on line 66
+[02-Nov-2018 07:03:47 UTC] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH) in /home/volive/public_html/aous/index.php on line 66
+[14-Nov-2018 12:05:06 UTC] PHP Warning:  Unterminated comment starting line 49 in /home/volive/public_html/zido/application/controllers/Admin.php on line 49
+[14-Nov-2018 12:05:07 UTC] PHP Warning:  Unterminated comment starting line 49 in /home/volive/public_html/zido/application/controllers/Admin.php on line 49
+[14-Nov-2018 13:04:06 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/volive/public_html/zido/index.php on line 78
+[15-Nov-2018 06:08:14 UTC] PHP Fatal error:  'goto' to undefined label 'end' in /home/volive/public_html/zido/application/controllers/Services.php on line 142
+[15-Nov-2018 06:08:38 UTC] PHP Fatal error:  'goto' to undefined label 'end' in /home/volive/public_html/zido/application/controllers/Services.php on line 142
+[15-Nov-2018 06:14:22 UTC] PHP Fatal error:  'goto' to undefined label 'end' in /home/volive/public_html/zido/application/controllers/Services.php on line 142
+[15-Nov-2018 06:22:01 UTC] PHP Fatal error:  'goto' to undefined label 'end' in /home/volive/public_html/zido/application/controllers/Services.php on line 126
+[19-Nov-2018 11:52:40 UTC] PHP Fatal error:  Cannot redeclare Home_m::get_product_images() in /home/volive/public_html/zido/application/models/Home_m.php on line 305
+[19-Nov-2018 11:52:52 UTC] PHP Fatal error:  Cannot redeclare Home_m::get_product_details() in /home/volive/public_html/zido/application/models/Home_m.php on line 303
+[22-Nov-2018 10:00:46 UTC] PHP Fatal error:  Cannot redeclare Admin::send_link() in /home/volive/public_html/zido/application/controllers/Admin.php on line 915
+[22-Nov-2018 10:00:53 UTC] PHP Fatal error:  Cannot redeclare Admin::send_link() in /home/volive/public_html/zido/application/controllers/Admin.php on line 915
+[22-Nov-2018 10:01:10 UTC] PHP Fatal error:  Cannot redeclare Admin::send_link() in /home/volive/public_html/zido/application/controllers/Admin.php on line 915
+[22-Nov-2018 10:02:31 UTC] PHP Fatal error:  Cannot redeclare Admin::send_link() in /home/volive/public_html/zido/application/controllers/Admin.php on line 915
+[28-Nov-2018 09:32:09 UTC] PHP Warning:  Unterminated comment starting line 1638 in /home/volive/public_html/zido/application/controllers/Home.php on line 1638
+[28-Nov-2018 10:18:05 UTC] PHP Warning:  Unterminated comment starting line 638 in /home/volive/public_html/zido/application/controllers/Services.php on line 638
+[28-Nov-2018 12:21:43 UTC] PHP Warning:  Unterminated comment starting line 638 in /home/volive/public_html/zido/application/controllers/Admin.php on line 638
+[29-Nov-2018 06:03:35 UTC] PHP Fatal error:  Cannot redeclare Admin::add_category() in /home/volive/public_html/zido/application/controllers/Admin.php on line 603
+[29-Nov-2018 06:03:37 UTC] PHP Fatal error:  Cannot redeclare Admin::add_category() in /home/volive/public_html/zido/application/controllers/Admin.php on line 603
+[29-Nov-2018 06:03:39 UTC] PHP Fatal error:  Cannot redeclare Admin::add_category() in /home/volive/public_html/zido/application/controllers/Admin.php on line 603
+[29-Nov-2018 11:17:14 UTC] PHP Warning:  Unterminated comment starting line 571 in /home/volive/public_html/zido/application/controllers/Services.php on line 571
+[29-Nov-2018 11:17:14 UTC] PHP Warning:  Unterminated comment starting line 571 in /home/volive/public_html/zido/application/controllers/Services.php on line 571
+[29-Nov-2018 11:17:14 UTC] PHP Warning:  Unterminated comment starting line 571 in /home/volive/public_html/zido/application/controllers/Services.php on line 571
+[29-Nov-2018 11:17:14 UTC] PHP Warning:  Unterminated comment starting line 571 in /home/volive/public_html/zido/application/controllers/Services.php on line 571
+[29-Nov-2018 12:52:23 UTC] PHP Warning:  Unterminated comment starting line 571 in /home/volive/public_html/zido/application/controllers/Services.php on line 571
+[03-Dec-2018 09:21:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[03-Dec-2018 09:21:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14696448 bytes) in /home/volive/public_html/zido/application/views/frontend/view_deal.php on line 444
+[20-Dec-2018 06:59:03 UTC] PHP Fatal error:  Cannot redeclare Admin::save_gallery() in /home/volive/public_html/media/application/controllers/Admin.php on line 678
+[20-Dec-2018 06:59:06 UTC] PHP Fatal error:  Cannot redeclare Admin::save_gallery() in /home/volive/public_html/media/application/controllers/Admin.php on line 678
+[20-Dec-2018 06:59:17 UTC] PHP Fatal error:  Cannot redeclare Admin::save_gallery() in /home/volive/public_html/media/application/controllers/Admin.php on line 678
+[20-Dec-2018 11:53:01 UTC] PHP Fatal error:  Cannot redeclare Home::index_banners_content() in /home/volive/public_html/media/application/controllers/Home.php on line 103
+[20-Dec-2018 11:53:08 UTC] PHP Fatal error:  Cannot redeclare Home::index_banners_content() in /home/volive/public_html/media/application/controllers/Home.php on line 103
+[20-Dec-2018 11:53:08 UTC] PHP Fatal error:  Cannot redeclare Home::index_banners_content() in /home/volive/public_html/media/application/controllers/Home.php on line 103
+[20-Dec-2018 11:53:09 UTC] PHP Fatal error:  Cannot redeclare Home::index_banners_content() in /home/volive/public_html/media/application/controllers/Home.php on line 103
+[20-Dec-2018 11:53:10 UTC] PHP Fatal error:  Cannot redeclare Home::index_banners_content() in /home/volive/public_html/media/application/controllers/Home.php on line 103
+[20-Dec-2018 11:53:11 UTC] PHP Fatal error:  Cannot redeclare Home::index_banners_content() in /home/volive/public_html/media/application/controllers/Home.php on line 103
+[20-Dec-2018 11:53:13 UTC] PHP Fatal error:  Cannot redeclare Home::index_banners_content() in /home/volive/public_html/media/application/controllers/Home.php on line 103
+[08-Jan-2019 12:18:12 UTC] PHP Fatal error:  Cannot redeclare Admin::add_blog() in /home/volive/public_html/media/application/controllers/Admin.php on line 291
+[08-Jan-2019 12:18:13 UTC] PHP Fatal error:  Cannot redeclare Admin::add_blog() in /home/volive/public_html/media/application/controllers/Admin.php on line 291
+[08-Jan-2019 12:18:21 UTC] PHP Fatal error:  Cannot redeclare Admin::add_blog() in /home/volive/public_html/media/application/controllers/Admin.php on line 291
+[08-Jan-2019 12:18:22 UTC] PHP Fatal error:  Cannot redeclare Admin::add_blog() in /home/volive/public_html/media/application/controllers/Admin.php on line 291
+[08-Jan-2019 12:18:23 UTC] PHP Fatal error:  Cannot redeclare Admin::add_blog() in /home/volive/public_html/media/application/controllers/Admin.php on line 291
+[08-Jan-2019 12:18:24 UTC] PHP Fatal error:  Cannot redeclare Admin::add_blog() in /home/volive/public_html/media/application/controllers/Admin.php on line 291
+[08-Jan-2019 12:18:33 UTC] PHP Fatal error:  Cannot redeclare Admin::add_blog() in /home/volive/public_html/media/application/controllers/Admin.php on line 291
+[11-Jan-2019 10:44:37 UTC] PHP Warning:  Unterminated comment starting line 533 in /home/volive/public_html/media/application/controllers/Home.php on line 533
+[11-Jan-2019 10:44:38 UTC] PHP Warning:  Unterminated comment starting line 533 in /home/volive/public_html/media/application/controllers/Home.php on line 533

@@ -1,0 +1,124 @@
+@font-face {
+   font-family:british-council;
+   font-style: normal;
+   font-weight: normal;
+   src:
+	   url(../fonts-1/britishcouncilarabic-regular.ttf) format('truetype');
+	
+}
+
+body {
+
+	direction: rtl;
+font-family:british-council !important;
+}
+
+
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6,a,p,span {
+
+font-family:british-council !important;
+	   }
+
+
+
+.slider-fade {
+
+    position: relative;
+
+    direction: ltr;
+
+}
+
+.header .caption p {
+
+   
+
+    width: 100%;
+
+}
+
+.v-middle {
+
+   
+
+    
+
+}
+
+li.last-pl {
+
+    margin-right: 55%;
+
+	margin-left: auto;
+
+}
+
+.ontop.row h6 {
+
+    
+
+    text-align: right;
+
+}
+
+img.footerlogo {
+
+  
+
+    margin-right: 15%;
+
+	margin-left: auto
+
+}
+
+.banner-info {
+
+    left:auto;
+
+    right: 15%;
+
+}
+
+ul.eve-left-lst img {
+
+   margin-right: auto;
+
+    margin-left: 10px;
+
+}
+
+ul.eve-left-lst li b {
+
+	float: right;
+
+}
+
+.contact .form .form-group .icon-form {
+
+    position: absolute;
+
+    right: 15px;
+
+	left: auto;
+
+}
+
+.cont-input {
+
+    padding: 5px 40px 5px 15px !important;
+
+}
+.float-lg-right {
+    text-align: right !important;
+}
+.float-lg-left {
+    text-align: left !important;
+}
+.viewd-info {
+    text-align: right !important;
+}
+
+.loc {
+    float: left !important;
+}

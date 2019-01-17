@@ -1,0 +1,52 @@
+@media screen and (min-width:320px) and (max-width: 767px) {
+.navbar-toggler{
+	 float: right;
+    margin-top: 40px;
+	}
+	.owl-nav i.fa {
+    font-size: 20px;
+}
+.owl-prev {
+    width: 30px;
+    height: 30px;
+}
+.owl-nav i.fa {
+    font-size: 20px;
+}
+.owl-next {
+    width: 30px;
+    height: 30px;
+}
+.owl-theme .owl-nav [class*=owl-] {
+    margin: 50px 5px;
+    padding: 4px 6px;
+}
+
+}
+@media screen and (min-width:320px) and (max-width: 480px) {
+	.half-padding {
+    padding: 50px 15px;
+}
+.valign p {
+    font-size: 12px;
+}
+.contact_for {
+    padding: 60px 15px !important;
+    width: 100% !important;
+}
+
+}
+@media screen and (min-width:481px) and (max-width: 767px) {
+	
+	.contact_for {
+    padding: 60px 15px !important;
+    width: 80% !important;
+}
+	}
+	@media screen and (min-width:240px) and (max-width: 320px) {
+	
+	.contact_for {
+    padding: 60px 15px !important;
+    width: 100% !important;
+}
+	}

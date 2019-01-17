@@ -1,0 +1,12 @@
+@media screen and (min-width:240px) and (max-width: 767px) {
+.navbar-toggler{
+	 float: left;
+    margin-top: 40px;
+	}
+	.col-10 {
+  width:100% !important;
+  max-width:100% !important;
+      flex:100% !important;
+}
+
+}
